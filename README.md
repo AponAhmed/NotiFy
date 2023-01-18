@@ -1,6 +1,9 @@
 # NotiFy
  Simple Notification for web, there three types of Notification - success,warning,error
 
+## Demo
+ You can see the demo on [codepen](https://codepen.io/apon22/pen/GRBmwMK)
+
 ## Installation
     `npm i @aponahmed/notify`
 
