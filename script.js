@@ -1,4 +1,4 @@
-import "./sass/index.sass";
+import "./sass/main.scss";
 
 class Notification {
     constructor({ ...options }) {
