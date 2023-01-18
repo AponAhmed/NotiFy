@@ -1,6 +1,6 @@
 {
   "name": "@aponahmed/notify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Notification for web, there three types of Notification - success,warning,error ",
   "main": "script.js",
   "scripts": {
